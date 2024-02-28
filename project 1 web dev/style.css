@@ -1,0 +1,26 @@
+a {
+    margin: 10px;
+    color: black;   
+    }
+    .navbar {
+        background-color: #7d7e82;
+        }
+    #divItem {
+        margin-inline: 100px;
+        text-decoration-line: none;
+        }
+    .myDiv {
+        text-align: center;
+        background-color: #7d7e82;
+        }
+    .myDiv2 {
+        text-decoration-line: none;
+    }
+    .container {
+        align-items: center;
+        display: flex;
+        flex-direction: column;  
+    }
+    #btnItem {
+        margin-top: 20px;
+    }
